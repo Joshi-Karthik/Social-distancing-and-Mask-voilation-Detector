@@ -14,12 +14,7 @@ I have used the algorithms in parallel but I feel using in series would have ach
 
 2. https://drive.google.com/drive/folders/16mivBpz97MVEE3Lf_A2i4HODLXSwrw59?usp=sharing -- Dataset
 
-## OutPuts
 
+## Outputs:
 
-
-<iframe src="https://youtu.be/EHhEnVbLCyk" frameborder="0" allowfullscreen></iframe>
-
-@[youtube](https://youtu.be/EHhEnVbLCyk)
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](https://media.giphy.com/media/slyYoDd783IUyVeHjs/giphy.gif)
+https://youtu.be/EHhEnVbLCyk
