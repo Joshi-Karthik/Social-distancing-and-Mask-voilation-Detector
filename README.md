@@ -1,6 +1,6 @@
 # Social-distancing-and-Mask-voilation-Detector
 
-## The algorithm used is as shwon below
+## The algorithm used is  shwon below
 
 ![html dark](https://github.com/Joshi-Karthik/Social-distancing-and-Mask-voilation-Detector/blob/main/algo.png)
 
