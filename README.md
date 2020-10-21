@@ -1,3 +1,3 @@
 # Social-distancing-and-Mask-voilation-Detector
 
-## the 
+## The algorithm used is as shwon below
